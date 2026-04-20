@@ -65,7 +65,8 @@ This project presents a comprehensive comparative study and trend analysis of ma
 
 ## 📄 Research Paper
 
-📥 [Download Paper](Trends+and+Gaps+in+Sentiment-Based+Mental+Health+Monitoring+On+Social+Media+A+Comparative+Study.docx+7777.docx+8888.pdf)
+📥 [Download Paper][Trends+and+Gaps+in+Sentiment-Based+Mental+Health+Monitoring+On+Social+Media+A+Comparative+Study.docx+7777.docx+8888.pdf](https://github.com/user-attachments/files/26893427/Trends%2Band%2BGaps%2Bin%2BSentiment-Based%2BMental%2BHealth%2BMonitoring%2BOn%2BSocial%2BMedia%2BA%2BComparative%2BStudy.docx%2B7777.docx%2B8888.pdf)
+
 
 ---
 
