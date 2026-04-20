@@ -1,5 +1,4 @@
-# 📊 Depression Detection: Trends & Comparative Analysis
-
+# 📊  Comparative Analysis: Depression Detection Trends & Analysis
 ## 📌 Overview
 
 This project presents a comprehensive comparative study and trend analysis of machine learning and deep learning techniques used for depression detection. It highlights recent advancements, research gaps, and performance comparisons across multiple models.
@@ -66,7 +65,7 @@ This project presents a comprehensive comparative study and trend analysis of ma
 
 ## 📄 Research Paper
 
-📥 [Download Paper]([Uploading Trends+and+Gaps+in+Sentiment-Based+Mental+Health+Monitoring+On+Social+Media+A+Comparative+Study.docx+7777.docx+8888.pdf…]())
+📥 [Download Paper](Trends+and+Gaps+in+Sentiment-Based+Mental+Health+Monitoring+On+Social+Media+A+Comparative+Study.docx+7777.docx+8888.pdf)
 
 ---
 
